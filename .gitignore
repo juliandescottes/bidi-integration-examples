@@ -1,3 +1,8 @@
+.DS_Store
+
+# HAR exports
+selenium/har/*.har
+
 # Logs
 logs
 *.log
